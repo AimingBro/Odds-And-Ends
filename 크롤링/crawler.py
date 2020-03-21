@@ -1,4 +1,3 @@
-<<<<<<< HEAD:크롤링/crawler.py
 import requests
 import telepot
 import time

@@ -33,7 +33,7 @@ void permu(int n, int r, int idx) {
 	}
 }
 
-//Àç±Í Á¶ÇÕ1 .. 
+//Àç±Í Á¶ÇÕ1 ..
 void combi1(int n, int r, int s, int idx) {
 
 	if (idx == r) {
